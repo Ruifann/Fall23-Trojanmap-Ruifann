@@ -7,11 +7,6 @@ This project focuses on using data structures in C++ and implementing various gr
 
 <p align="center"><img src="img/TrojanMap.png" alt="Trojan" width="500" /></p>
 
-- Please clone the repository, read through [README.md](README.md), and implement the functions of the project.
-- Please make sure that your code can run `bazel run` and `bazel test`.
-- You need to fill in [trojanmap.cc](src/lib/trojanmap.cc), [mapui.cc](src/lib/mapui.cc) and maybe [mapui.h](src/lib/mapui.h), and add unit tests in the `tests` directory.
-- We will use the autograder to grade some of the questions
-- We will compare the code similarity between submissions and the previous semester's submissions. Please complete the project within your group.
 ---
 
 ## The Data Structure
